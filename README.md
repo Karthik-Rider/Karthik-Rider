@@ -25,3 +25,5 @@ Here are some ideas to get you started:
 </a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_USERNAME/)
 
+https://www.linkedin.com/legal/professional-community-policies?openinweb=true
+
