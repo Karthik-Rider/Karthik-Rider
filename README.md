@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 - Passionate about clean code and performance
 ## 📫 Connect with Me
 - linkedin.com/in/karthik-m-a-7a24b4149
+- https://www.linkedin.com/feed/?nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BvUjaHFNlRXy54s8heJTfeQ%3D%3D
