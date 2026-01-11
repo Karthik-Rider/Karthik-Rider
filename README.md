@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 - Passionate about clean code and performance
 ## 📫 Connect with Me
   [![LinkedIn](https://www.linkedin.com/feed/?nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BvUjaHFNlRXy54s8heJTfeQ%3D%3D)]
+  <a href="https://www.linkedin.com/in/YOUR_USERNAME/" target="_blank">
+  <img src="[https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg](https://www.linkedin.com/feed/?nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BvUjaHFNlRXy54s8heJTfeQ%3D%3D)" alt="LinkedIn" width="30" height="30">
+</a>
