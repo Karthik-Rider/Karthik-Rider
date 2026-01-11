@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - Strong in frontend & backend development
 - Passionate about clean code and performance
 ## 📫 Connect with Me
-  [![LinkedIn](https://www.linkedin.com/feed/?nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BvUjaHFNlRXy54s8heJTfeQ%3D%3D)](https://www.linkedin.com/in/YOUR_USERNAME/)
+  [[LinkedIn](https://www.linkedin.com/feed/?nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BvUjaHFNlRXy54s8heJTfeQ%3D%3D)](https://www.linkedin.com/in/YOUR_USERNAME/)
