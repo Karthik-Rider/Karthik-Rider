@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋, I'm Karthik
 
 <!--
 **Karthik-Rider/Karthik-Rider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 - Full Stack Developer with experience in building scalable web apps
 - Strong in frontend & backend development
 - Passionate about clean code and performance
+## 📫 Connect with Me
+linkedin.com/in/karthik-m-a-7a24b4149
