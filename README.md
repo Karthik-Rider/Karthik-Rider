@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - Strong in frontend & backend development
 - Passionate about clean code and performance
 ## 📫 Connect with Me
-linkedin.com/in/karthik-m-a-7a24b4149
+- linkedin.com/in/karthik-m-a-7a24b4149
