@@ -31,3 +31,7 @@ Here are some ideas to get you started:
   <img src="[https://www.linkedin.com/legal/professional-community-policies?openinweb=true]" alt="LinkedIn" width="30" height="30">
 </a>
 
+<a href="https://www.linkedin.com/in/YOUR_USERNAME/" target="_blank">
+  <img src="[![LinkedIn](https://www.linkedin.com/legal/professional-community-policies?openinweb=true)]" alt="LinkedIn" width="30" height="30">
+</a>
+
