@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 👨‍💻 About Me
+- Full Stack Developer with experience in building scalable web apps
+- Strong in frontend & backend development
+- Passionate about clean code and performance
