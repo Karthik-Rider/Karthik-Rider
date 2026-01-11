@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ## 📫 Connect with Me
   [![LinkedIn](https://www.linkedin.com/feed/?nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BvUjaHFNlRXy54s8heJTfeQ%3D%3D)]
   <a href="https://www.linkedin.com/in/YOUR_USERNAME/" target="_blank">
-  <img src="[https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg](https://www.linkedin.com/feed/?nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BvUjaHFNlRXy54s8heJTfeQ%3D%3D)" alt="LinkedIn" width="30" height="30">
+  <img src="[https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg](https://www.linkedin.com/legal/professional-community-policies?openinweb=true)" alt="LinkedIn" width="30" height="30">
 </a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_USERNAME/)
 
